@@ -1,0 +1,9 @@
+hola
+perro
+gato
+fin
+cama
+pájaro
+hola mundo
+mundo
+-adios
